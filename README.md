@@ -1,52 +1,45 @@
 # Fire-Fighting-Robot-using-Arduino
 An IoT-enabled Fire Fighting Robot designed to detect and extinguish fire automatically using flame sensors, water pump, and DC motors.
 
+# 📁 Project Structure
+
+Fire-Fighting-Robot-IoT/
+
+├── Code/
+
+│   └── code.ino
+
+├── Circuit/
+
+│   └── circuit_diagram.png
+
+├── Images/
+
+│   └── image1.jpg
+
+├── README.md
+
+
 # 🧰 Components Required
-🪵 3mm Acrylic Sheet
 
-🔌 Solderless Breadboard
+| ⚙️ **Mechanical Components**              | 🔌 **Electronic Components**                  |
+| ----------------------------------------- | --------------------------------------------- |
+| 🪵 3mm Acrylic Sheet                      | 🧠 Arduino UNO                                |
+| 🚗 4-Wheel Robot Car Kit                  | 🔥 Flame Sensor x 3                           |
+| 🫗 Water Tank                             | ⚙️ L298 Motor Driver                          |
+| 🚿 PVC Water Pipe (8mm)                   | 🤖 Mini Servo Motor SG90                      |
+| 🪛 On/Off Switch                          | 🔋 TIP-122 Transistor                         |
+| 🔋 18650 Battery Holder – 2 Cell          | 📏 1k Resistor                                |
+| 🔋 18650 Battery Cell 3.7V x 2            | 🧪 104pf Capacitor                            |
+| 📦 Mounting Hardware / Screws (if needed) | 🔌 Solderless Breadboard                      |
+| 🔧 Chassis Assembly Parts                 | 🔌 Male to Male & Male to Female Jumper Wires |
+| 🪫 Battery Housing & Power Mount          | 🔌 Female DC Power Jack & 9V 1.5A Adapter     |
 
-🚗 4-Wheel Robot Car Kit
+📸 Project Preview
+<p align="center"> <img src="images/image 1.jpg" alt="Fire Fighting Robot - Preview 1" width="300"/> &nbsp;&nbsp;&nbsp; <img src="images/image 2.jpg" alt="Fire Fighting Robot - Preview 2" width="300"/> </p>
+📝 Image 1: Side view of the robot
+📝 Image 2: Robot extinguishing fire
 
-🧠 Arduino UNO
-
-🔥 Flame Sensor x 3
-
-⚙️ L298 Motor Driver
-
-🤖 Mini Servo Motor SG90
-
-🔋 TIP-122 Transistor
-
-📏 1k Resistor
-
-🧪 104pf Capacitor
-
-🚿 PVC Water Pipe (8mm)
-
-💦 12V DC Water Pump
-
-🫗 Water Tank
-
-🔌 Male to Male Jumper Wires
-
-🔌 Male to Female Jumper Wires
-
-🧵 Hard Jumper Wire
-
-📌 Male Header
-
-🪛 On/Off Switch
-
-🔌 Female DC Power Jack
-
-🔋 2S BMS (7.4V 3A Overcharge/Discharge Protection)
-
-🔋 18650 Battery Holder – 2 Cell
-
-🔋 18650 Battery Cell 3.7V x 2
-
-🔌 9V 1.5A Power Adapter
 
 # ⚙️ Working Principle
 

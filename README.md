@@ -36,12 +36,14 @@ Fire-Fighting-Robot-IoT/
 | 🪫 Battery Housing & Power Mount          | 🔌 Female DC Power Jack & 9V 1.5A Adapter     |
 
 # 📸 Project Preview
-
-<p align="center"> 
 📝 Image 1: Side view of the robot
-<img src="image 1.png" alt="Fire Fighting Robot - Preview 1" width="300"/> 
-📝 Image 2: Robot extinguishing fire
-<img src="image 2.png" alt="Fire Fighting Robot - Preview 2" width="300"/> 
+<p>
+<img src="images/image 1.png" alt="Fire Fighting Robot - Preview 1" width="300"/>
+</p>
+
+📝 Image 2: Robot extinguishing fire  
+<p>
+<img src="images/image 2.png" alt="Fire Fighting Robot - Preview 2" width="300"/>
 </p>
 
 

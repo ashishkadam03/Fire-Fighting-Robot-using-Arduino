@@ -39,9 +39,9 @@ Fire-Fighting-Robot-IoT/
 
 <p align="center"> 
 📝 Image 1: Side view of the robot
-<img src="image 1.jpg" alt="Fire Fighting Robot - Preview 1" width="300"/> 
+<img src="image 1.png" alt="Fire Fighting Robot - Preview 1" width="300"/> 
 📝 Image 2: Robot extinguishing fire
-<img src="image 2.jpg" alt="Fire Fighting Robot - Preview 2" width="300"/> 
+<img src="image 2.png" alt="Fire Fighting Robot - Preview 2" width="300"/> 
 </p>
 
 

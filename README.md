@@ -35,10 +35,14 @@ Fire-Fighting-Robot-IoT/
 | 🔧 Chassis Assembly Parts                 | 🔌 Male to Male & Male to Female Jumper Wires |
 | 🪫 Battery Housing & Power Mount          | 🔌 Female DC Power Jack & 9V 1.5A Adapter     |
 
-📸 Project Preview
-<p align="center"> <img src="images/image 1.jpg" alt="Fire Fighting Robot - Preview 1" width="300"/> &nbsp;&nbsp;&nbsp; <img src="images/image 2.jpg" alt="Fire Fighting Robot - Preview 2" width="300"/> </p>
+# 📸 Project Preview
+
+<p align="center"> 
 📝 Image 1: Side view of the robot
+<img src="images/image 1.jpg" alt="Fire Fighting Robot - Preview 1" width="300"/> 
 📝 Image 2: Robot extinguishing fire
+<img src="images/image 2.jpg" alt="Fire Fighting Robot - Preview 2" width="300"/> 
+</p>
 
 
 # ⚙️ Working Principle
